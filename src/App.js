@@ -10,7 +10,7 @@ function App() {
           My portfolio<br/>Dito ilalagay
         </p>
         <p>Link to my LinkedIn Account</p>
-        <a href='https://ph.linkedin.com/in/lady-mae-manuncia-22822598'/>
+        <a href='https://ph.linkedin.com/in/lady-mae-manuncia-22822598'>View LinkedIn</a>
         <a
           className="App-link"
           href="https://reactjs.org"
