@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="https://static.wikia.nocookie.net/disney/images/9/90/Angelina_Jolie.jpg/revision/latest/top-crop/width/360/height/360?cb=20180604002246" className="App-logo" alt="logo" />
         <p>
           My portfolio<br/>Dito ilalagay
         </p>
